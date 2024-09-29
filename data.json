@@ -7,6 +7,13 @@
         "detailHTML" : "<div style='text-align:center'><img src='./assets/images/ehyundai_pc.jpg' alt=''><br><br><br><img src='./assets/images/ehyundai_mobile.jpg' alt=''><br><br><br></div>"
     },
     {
+        "image" : "./assets/images/bok_ban.png",
+        "specMain" : "보건복지부 복지위기 알림 앱",
+        "specSub" : "웹접근성 구축 프로젝트",
+        "specLink" : "https://play.google.com/store/apps/details?id=kr.ssis.sbj&pli=1",
+        "detailHTML" : "<div style='text-align:center;max-width:400px;margin:0 auto;'><img src='./assets/images/bok_view01.jpg' alt=''><br><br><br><img src='./assets/images/bok_view02.jpg' alt=''><br><br><br><img src='./assets/images/bok_view03.jpg' alt=''><br><br><br></div>"
+    },
+    {
         "image" : "./assets/images/db_ban.png",
         "specMain" : "동부화재 원격컨설팅솔루션",
         "specSub" : "단기 구축 프로젝트",
@@ -40,5 +47,33 @@
         "specSub" : "단기 구축 프로젝트",
         "specLink" : "#",
         "detailHTML" : "<div style='text-align:center'><img src='./assets/images/tmap_view01.png' alt=''><br><br><br><img src='./assets/images/tmap_view02.png' alt=''><br><br><br><img src='./assets/images/tmap_view03.png' alt=''><br><br><br></div>"
+    },
+    {
+        "image" : "./assets/images/mb_wyd.png",
+        "specMain" : "롯데홈쇼핑 와이드 모바일앱",
+        "specSub" : "연간 앱 운영(서비스종료)",
+        "specLink" : "#",
+        "detailHTML" : ""
+    },
+    {
+        "image" : "./assets/images/mb_itoo.png",
+        "specMain" : "롯데홈쇼핑 아이투 모바일앱",
+        "specSub" : "연간 앱 운영(서비스종료)",
+        "specLink" : "#",
+        "detailHTML" : "<div style='text-align:center;max-width:400px;margin:0 auto;'><br><br><br><img src='./assets/images/itoo_view01.png' alt=''><br><br><br><img src='./assets/images/itoo_view02.png' alt=''><br><br><br><img src='./assets/images/itoo_view03.png' alt=''><br><br><br></div>"
+    },
+    {
+        "image" : "./assets/images/may_ban.png",
+        "specMain" : "메이블린 뉴욕 100주년 론칭 사이트",
+        "specSub" : "반응형 구축",
+        "specLink" : "#",
+        "detailHTML" : "<div style='text-align:center;'><img src='./assets/images/may_mainall.png' alt=''><br><br><br><img src='./assets/images/may_m_sub.jpg' alt=''><br><br><br></div>"
+    },
+    {
+        "image" : "./assets/images/mgame_ban.png",
+        "specMain" : "엠게임 와글 프린세스메이커 소셜네트워크게임 사이트",
+        "specSub" : "구축 프로젝트",
+        "specLink" : "#",
+        "detailHTML" : "<div style='text-align:center;'><img src='./assets/images/wagle1.jpg' alt=''><br><br><br><img src='./assets/images/wagle2.jpg' alt=''><br><br><br><img src='./assets/images/wagle3.jpg' alt=''><br><br><br></div>"
     }
 ]

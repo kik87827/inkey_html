@@ -1115,6 +1115,7 @@ html:not(.touchmode) ::-webkit-scrollbar-track {
   line-height: 0;
   position: relative;
   top: 0.125rem;
+  transform: scale(0.8);
 }
 .gallery-spec-link img {
   vertical-align: top;
