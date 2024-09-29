@@ -75,5 +75,12 @@
         "specSub" : "구축 프로젝트",
         "specLink" : "#",
         "detailHTML" : "<div style='text-align:center;'><img src='./assets/images/wagle1.jpg' alt=''><br><br><br><img src='./assets/images/wagle2.jpg' alt=''><br><br><br><img src='./assets/images/wagle3.jpg' alt=''><br><br><br></div>"
+    },
+    {
+        "image" : "./assets/images/hanhwa.jpg",
+        "specMain" : "한화생명 VIP 멤버십 반응형 사이트",
+        "specSub" : "구축 프로젝트",
+        "specLink" : "#",
+        "detailHTML" : "<div style='text-align:center;'><img src='./assets/images/hanhwa_view01.jpg' alt=''><br><br><br><img src='./assets/images/hanhwa_view02.jpg' alt=''></div>"
     }
 ]
