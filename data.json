@@ -1,0 +1,44 @@
+[
+    {
+        "image" : "./assets/images/ehyundai_ban.png",
+        "specMain" : "현대백화점 홈페이지/앱 운영",
+        "specSub" : "연간 홈페이지 운영",
+        "specLink" : "https://www.ehyundai.com/",
+        "detailHTML" : "<div style='text-align:center'><img src='./assets/images/ehyundai_pc.jpg' alt=''><br><br><br><img src='./assets/images/ehyundai_mobile.jpg' alt=''><br><br><br></div>"
+    },
+    {
+        "image" : "./assets/images/db_ban.png",
+        "specMain" : "동부화재 원격컨설팅솔루션",
+        "specSub" : "단기 구축 프로젝트",
+        "specLink" : "https://codegv.cafe24.com/db_remote/codinglist.html",
+        "detailHTML" : "<div style='text-align:center'><img src='./assets/images/db_view_01.jpg' alt=''><br><br><br><img src='./assets/images/db_view_02.jpg' alt=''><br><br><br><img src='./assets/images/db_view_03.jpg' alt=''><br><br><br></div>"
+    },
+    {
+        "image" : "./assets/images/yessure_ban.png",
+        "specMain" : "클라우드 기반 보험 플랫폼 ‘예스슈어’ 랜딩페이지",
+        "specSub" : "단기 구축 프로젝트",
+        "specLink" : "https://yes-sure.ai/",
+        "detailHTML" : ""
+    },
+    {
+        "image" : "./assets/images/nail_ban.png",
+        "specMain" : "정보 보호 솔루션 업체 나일소프트 리뉴얼",
+        "specSub" : "단기 구축 프로젝트",
+        "specLink" : "http://www.nilesoft.co.kr/",
+        "detailHTML" : ""
+    },
+    {
+        "image" : "./assets/images/mg_ban.png",
+        "specMain" : "MG새마을금고보험 공제 리뉴얼 구축",
+        "specSub" : "VUE 구축 프로젝트",
+        "specLink" : "https://insure.kfcc.co.kr/",
+        "detailHTML" : ""
+    },
+    {
+        "image" : "./assets/images/tm_ban.png",
+        "specMain" : "SKT 멤버십 서비스내의 T 멤버십 글로벌여행 서비스 구축",
+        "specSub" : "단기 구축 프로젝트",
+        "specLink" : "#",
+        "detailHTML" : "<div style='text-align:center'><img src='./assets/images/tmap_view01.png' alt=''><br><br><br><img src='./assets/images/tmap_view02.png' alt=''><br><br><br><img src='./assets/images/tmap_view03.png' alt=''><br><br><br></div>"
+    }
+]
